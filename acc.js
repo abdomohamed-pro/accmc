@@ -2,7 +2,7 @@
 
 window.onload = function()
 {
-  var arr = ["hawksleywild:bobus3396",
+  var arr = ["https://goo.gl/mkGdJw",
               ,"Hayzach:baconbelly" ,
               "ClawMD:01344771396",
               "Rikimaru101:disembowl" ,
@@ -11,7 +11,7 @@ window.onload = function()
               "StuTheBusdriver:0ll13t38um" ,
               "flop_awesome:stefman19" ,
               "Joystiiick:necrons" ,
-              "rilez92:raiders!" 
+              "rilez92:raiders!" ,
 ];
 
 
