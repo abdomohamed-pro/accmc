@@ -2,9 +2,9 @@
 
 window.onload = function()
 {
-  var arr = ["https://goo.gl/mkGdJw",
-              ,"https://goo.gl/mkGdJw" ,
-              "https://goo.gl/mkGdJw",
+  var arr = [https://goo.gl/mkGdJw,
+              ,https://goo.gl/mkGdJw ,
+              https://goo.gl/mkGdJw,
               "https://goo.gl/mkGdJw" ,
               "https://goo.gl/mkGdJw" ,
               "https://goo.gl/mkGdJw" ,
