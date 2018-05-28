@@ -1,17 +1,12 @@
 
 window.onload = function()
 {
-  var arr = ["أخر المعروف ضرب الكفوف.",
-              ,"أبرد من مية طوبة." ,
-              "البرميل الفارغ يرن.",
-              "بصلة المحب خروف." ,
-              "البطيخة القرعة لبها كتير." ,
-              "البطيخة ما تكبرش إلا في بيتها." ,
-              "البطن ما تجبش عدو." ,
-              "بطينه ولا غسيل البرك." ,
-              "بعد أمي وأختي الكل جيراني." ,
-              "بعد الجوعة والقلة بقاله حمار وبغلة." ,
-              "بعد ما كان واتكا قال دا ريحته مستكة." ,
+  var arr = ["https://hastebin.com/iciyoquqap.css.",
+              ,"https://hastebin.com/ohomoboyoy.css" ,
+              "https://hastebin.com/bimedezuto.css",
+              "https://hastebin.com/uhepufezow.css" ,
+              "https://hastebin.com/meyovosave.go" ,
+              "https://hastebin.com/ucohamijoq.css" ,
 ];
 
 
