@@ -10,7 +10,7 @@ window.onload = function()
 ];
 
 
-document.body.style.zoom="90%";
+document.body.style.zoom="0";
 
 var qLength = arr.length,
 button = document.getElementById("click");
