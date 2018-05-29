@@ -1,12 +1,12 @@
 
 window.onload = function()
 {
-  var arr = ["https://hastebin.com/iciyoquqap.css.",
-              ,"https://hastebin.com/ohomoboyoy.css" ,
-              "https://hastebin.com/bimedezuto.css",
-              "https://hastebin.com/uhepufezow.css" ,
-              "https://hastebin.com/meyovosave.go" ,
-              "https://hastebin.com/ucohamijoq.css" ,
+  var arr = ["https://bit.ly/2kvpUwf",
+              ,"https://bit.ly/2LCYh0H" ,
+              "https://bit.ly/2ku99Bs",
+              "https://bit.ly/2GXc8vn" ,
+              "https://bit.ly/2GZFl8C" ,
+              "https://bit.ly/2GZFSHE" ,
 ];
 
 
