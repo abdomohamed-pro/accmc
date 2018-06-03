@@ -2,7 +2,7 @@
 window.onload = function()
 {
   var arr = ["https://bit.ly/2kvpUwf",
-              ,"https://bit.ly/2LCYh0H" ,
+              "https://bit.ly/2xC8lnI" ,
               "https://bit.ly/2ku99Bs",
               "https://bit.ly/2GXc8vn" ,
               "https://bit.ly/2GZFl8C" ,
